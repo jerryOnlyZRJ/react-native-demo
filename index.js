@@ -3,7 +3,7 @@
 import {
     AppRegistry
 } from 'react-native';
-import App from './App';
+import App from './App.jsx';
 // 引入应用全局配置
 import {
     name as appName
