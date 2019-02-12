@@ -1,4 +1,6 @@
 /** @format */
+// react-native run-ios
+// react-native run-android
 
 import {
     AppRegistry
